@@ -1,0 +1,23 @@
+[
+    {
+        "title": "This is the Post’s title",
+        "tags" : "post, card, rock",
+        "content" : "Lorem ipsum dolor sit am tuer adipiscing elit, sed ummy nibh euismod.",
+        "date": "June 12, 2022",
+        "image": "./img/news1.png"
+    },
+    {
+        "title": "Second Post title",
+        "tags" : "post, rock, roll",
+        "content" : "Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "date": "April 24, 2022",
+        "image": "./img/news2.png"
+    },
+    {
+        "title": "One More Post title",
+        "tags" : "tomato, onion, grape",
+        "content" : "The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\".",
+        "date": "August 20, 2021",
+        "image": "./img/news1.png"
+    }
+]
